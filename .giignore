@@ -1,2 +1,3 @@
-.giignore
-.idea/
+.coverage
+.idea
+

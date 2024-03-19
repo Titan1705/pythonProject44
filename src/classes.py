@@ -1,7 +1,7 @@
 class Category:
     name: str
     description: str
-    product: str
+    product: list
     number_of_categories = 0
     unique_product = 0
 
